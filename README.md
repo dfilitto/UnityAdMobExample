@@ -6,6 +6,7 @@ Já pensou em ganhar dinheiro por meio de propagandas em seus jogos de maneirá 
 A aula tem como objetivo ensinar como configurar o AdMob em projetos na Unity possibilitando o ganho por meio de propagandas.
 
 Clique no [link](https://www.youtube.com/playlist?list=PLfvOpw8k80Wpfd9OfQdd-yQE0fHen4acn) para acessar a aula.
+Clique no [link](https://developers.google.com/admob/unity/quick-start) para acessar o manual de integração do AdMob.
 
 ## Dicas de estudo:
 
